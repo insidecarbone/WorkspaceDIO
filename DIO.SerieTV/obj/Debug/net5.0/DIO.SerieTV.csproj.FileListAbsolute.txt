@@ -1,0 +1,16 @@
+C:\WorkspaceDIO\DIO.SerieTV\bin\Debug\net5.0\DIO.SerieTV.exe
+C:\WorkspaceDIO\DIO.SerieTV\bin\Debug\net5.0\DIO.SerieTV.deps.json
+C:\WorkspaceDIO\DIO.SerieTV\bin\Debug\net5.0\DIO.SerieTV.runtimeconfig.json
+C:\WorkspaceDIO\DIO.SerieTV\bin\Debug\net5.0\DIO.SerieTV.runtimeconfig.dev.json
+C:\WorkspaceDIO\DIO.SerieTV\bin\Debug\net5.0\DIO.SerieTV.dll
+C:\WorkspaceDIO\DIO.SerieTV\bin\Debug\net5.0\ref\DIO.SerieTV.dll
+C:\WorkspaceDIO\DIO.SerieTV\bin\Debug\net5.0\DIO.SerieTV.pdb
+C:\WorkspaceDIO\DIO.SerieTV\obj\Debug\net5.0\DIO.SerieTV.csprojAssemblyReference.cache
+C:\WorkspaceDIO\DIO.SerieTV\obj\Debug\net5.0\DIO.SerieTV.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkspaceDIO\DIO.SerieTV\obj\Debug\net5.0\DIO.SerieTV.AssemblyInfoInputs.cache
+C:\WorkspaceDIO\DIO.SerieTV\obj\Debug\net5.0\DIO.SerieTV.AssemblyInfo.cs
+C:\WorkspaceDIO\DIO.SerieTV\obj\Debug\net5.0\DIO.SerieTV.csproj.CoreCompileInputs.cache
+C:\WorkspaceDIO\DIO.SerieTV\obj\Debug\net5.0\DIO.SerieTV.dll
+C:\WorkspaceDIO\DIO.SerieTV\obj\Debug\net5.0\ref\DIO.SerieTV.dll
+C:\WorkspaceDIO\DIO.SerieTV\obj\Debug\net5.0\DIO.SerieTV.pdb
+C:\WorkspaceDIO\DIO.SerieTV\obj\Debug\net5.0\DIO.SerieTV.genruntimeconfig.cache
